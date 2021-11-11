@@ -1,0 +1,7 @@
+{
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.13",
+        "adhocore/cli": "^0.9.0",
+        "guiguiboy/php-cli-progress-bar": "^0.0.4"
+    }
+}
